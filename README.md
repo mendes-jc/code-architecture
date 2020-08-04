@@ -1,2 +1,5 @@
-# code-arquiteture
-Documentation of Useful Design Patterns
+# Code Architecture
+
+Documentation of useful Design Patterns about Web Development
+
+Access Wiki pages to read more.
